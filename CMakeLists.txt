@@ -17,6 +17,7 @@ qt_add_qml_module(appheva-system
     VERSION 1.0
     QML_FILES
         Main.qml
+        RESOURCES README.md
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

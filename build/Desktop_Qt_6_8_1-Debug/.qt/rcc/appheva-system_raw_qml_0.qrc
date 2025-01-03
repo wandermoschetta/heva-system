@@ -1,6 +1,7 @@
 <RCC>
   <qresource prefix="/qt/qml/heva-system/">
     <file alias="Main.qml">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Main.qml</file>
+    <file alias="README.md">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/README.md</file>
   </qresource>
 </RCC>
 
