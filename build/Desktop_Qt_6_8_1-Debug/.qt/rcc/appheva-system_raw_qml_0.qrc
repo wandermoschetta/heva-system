@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/heva-system/">
+    <file alias="Main.qml">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Main.qml</file>
+  </qresource>
+</RCC>
+

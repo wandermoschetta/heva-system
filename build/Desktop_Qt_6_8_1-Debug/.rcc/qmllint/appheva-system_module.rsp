@@ -1,0 +1,10 @@
+-I
+/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug
+-I
+/home/wander/Aplicativos/Qt/6.8.1/gcc_64/qml
+--resource
+/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_heva-system.qrc
+--resource
+/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appheva-system_raw_qml_0.qrc
+--module
+heva-system

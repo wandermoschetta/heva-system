@@ -1,0 +1,14 @@
+-rootPath
+/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system
+-cmake-output
+-output-file
+/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appheva-system_build.cmake
+-importPath
+/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/heva-system
+-importPath
+/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug
+-importPath
+/home/wander/Aplicativos/Qt/6.8.1/gcc_64/qml
+-qrcFiles
+/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_heva-system.qrc
+/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appheva-system_raw_qml_0.qrc
