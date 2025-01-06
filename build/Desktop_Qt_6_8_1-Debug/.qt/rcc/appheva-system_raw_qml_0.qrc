@@ -1,7 +1,9 @@
 <RCC>
   <qresource prefix="/qt/qml/heva-system/">
     <file alias="Main.qml">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Main.qml</file>
+    <file alias="ui/LeftBar.qml">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/LeftBar.qml</file>
     <file alias="README.md">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/README.md</file>
+    <file alias=".gitignore">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/.gitignore</file>
   </qresource>
 </RCC>
 

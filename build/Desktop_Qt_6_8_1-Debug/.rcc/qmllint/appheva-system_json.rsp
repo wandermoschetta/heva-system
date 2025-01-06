@@ -8,5 +8,6 @@
 --resource
 /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appheva-system_raw_qml_0.qrc
 /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Main.qml
+/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/LeftBar.qml
 --json
 /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/appheva-system_qmllint.json

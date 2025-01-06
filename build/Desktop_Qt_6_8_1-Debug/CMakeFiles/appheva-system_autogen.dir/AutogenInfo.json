@@ -1250,6 +1250,7 @@
 		"/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_qmake_heva-system.cpp",
 		"/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appheva-system_Main_qml.cpp",
 		"/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appheva-system_qmlcache_loader.cpp",
+		"/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp",
 		"/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/appheva-system_qmltyperegistrations.cpp"
 	],
 	"MULTI_CONFIG" : false,
@@ -1276,6 +1277,7 @@
 		"/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_qmake_heva-system.cpp",
 		"/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appheva-system_Main_qml.cpp",
 		"/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appheva-system_qmlcache_loader.cpp",
+		"/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp",
 		"/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/appheva-system_qmltyperegistrations.cpp"
 	],
 	"UIC_UI_FILES" : [],

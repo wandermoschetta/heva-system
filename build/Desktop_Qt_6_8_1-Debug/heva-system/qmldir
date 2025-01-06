@@ -2,4 +2,5 @@ module heva-system
 typeinfo appheva-system.qmltypes
 prefer :/qt/qml/heva-system/
 Main 1.0 Main.qml
+LeftBar 1.0 ui/LeftBar.qml
 

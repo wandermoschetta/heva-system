@@ -3,3 +3,4 @@
 --resource
 /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appheva-system_raw_qml_0.qrc
 /qt/qml/heva-system/Main.qml
+/qt/qml/heva-system/ui/LeftBar.qml

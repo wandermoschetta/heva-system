@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 13,
+                        "durationMicroseconds": 311,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 6
+                    }
+                ],
+                "filepath": "/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/LeftBar.qml"
+            }
+        ],
+        "moduleId": "heva-system(appheva-system)"
+    }
+]

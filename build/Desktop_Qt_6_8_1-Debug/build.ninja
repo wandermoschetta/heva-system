@@ -47,7 +47,7 @@ cmake_ninja_workdir = /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva
 #############################################
 # Order-only phony target for appheva-system
 
-build cmake_object_order_depends_target_appheva-system: phony || .qt/rcc/qrc_appheva-system_raw_qml_0.cpp .qt/rcc/qrc_qmake_heva-system.cpp .rcc/qmlcache/appheva-system_Main_qml.cpp .rcc/qmlcache/appheva-system_Main_qml.cpp.aotstats .rcc/qmlcache/appheva-system_qmlcache_loader.cpp appheva-system_autogen appheva-system_autogen/mocs_compilation.cpp appheva-system_autogen/timestamp appheva-system_autogen_timestamp_deps appheva-system_qmlimportscan appheva-system_qmltyperegistrations.cpp appheva-system_tooling heva-system/appheva-system.qmltypes meta_types/appheva-system_json_file_list.txt meta_types/appheva-system_json_file_list.txt.timestamp meta_types/qt6appheva-system_debug_metatypes.json meta_types/qt6appheva-system_debug_metatypes.json.gen
+build cmake_object_order_depends_target_appheva-system: phony || .qt/rcc/qrc_appheva-system_raw_qml_0.cpp .qt/rcc/qrc_qmake_heva-system.cpp .rcc/qmlcache/appheva-system_Main_qml.cpp .rcc/qmlcache/appheva-system_Main_qml.cpp.aotstats .rcc/qmlcache/appheva-system_qmlcache_loader.cpp .rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp .rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp.aotstats appheva-system_autogen appheva-system_autogen/mocs_compilation.cpp appheva-system_autogen/timestamp appheva-system_autogen_timestamp_deps appheva-system_qmlimportscan appheva-system_qmltyperegistrations.cpp appheva-system_tooling heva-system/appheva-system.qmltypes meta_types/appheva-system_json_file_list.txt meta_types/appheva-system_json_file_list.txt.timestamp meta_types/qt6appheva-system_debug_metatypes.json meta_types/qt6appheva-system_debug_metatypes.json.gen
 
 build CMakeFiles/appheva-system.dir/appheva-system_autogen/mocs_compilation.cpp.o: CXX_COMPILER__appheva-system_unscanned_Debug /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/appheva-system_autogen/mocs_compilation.cpp || cmake_object_order_depends_target_appheva-system
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMETA_LIB -DQT_QMLMODELS_LIB -DQT_QMLWORKERSCRIPT_LIB -DQT_QML_LIB -DQT_QUICK_LIB
@@ -97,6 +97,14 @@ build CMakeFiles/appheva-system.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/a
   OBJECT_DIR = CMakeFiles/appheva-system.dir
   OBJECT_FILE_DIR = CMakeFiles/appheva-system.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache
 
+build CMakeFiles/appheva-system.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp.o: CXX_COMPILER__appheva-system_unscanned_Debug /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp || cmake_object_order_depends_target_appheva-system
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMETA_LIB -DQT_QMLMODELS_LIB -DQT_QMLWORKERSCRIPT_LIB -DQT_QML_LIB -DQT_QUICK_LIB
+  DEP_FILE = CMakeFiles/appheva-system.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -fdiagnostics-color=always -fPIC
+  INCLUDES = -I/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/appheva-system_autogen/include -I/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system -isystem /home/wander/Aplicativos/Qt/6.8.1/gcc_64/include/QtQml/6.8.1 -isystem /home/wander/Aplicativos/Qt/6.8.1/gcc_64/include/QtQml/6.8.1/QtQml -isystem /home/wander/Aplicativos/Qt/6.8.1/gcc_64/include/QtCore/6.8.1 -isystem /home/wander/Aplicativos/Qt/6.8.1/gcc_64/include/QtCore/6.8.1/QtCore -isystem /home/wander/Aplicativos/Qt/6.8.1/gcc_64/include/QtCore -isystem /home/wander/Aplicativos/Qt/6.8.1/gcc_64/include -isystem /home/wander/Aplicativos/Qt/6.8.1/gcc_64/mkspecs/linux-g++ -isystem /home/wander/Aplicativos/Qt/6.8.1/gcc_64/include/QtQml -isystem /home/wander/Aplicativos/Qt/6.8.1/gcc_64/include/QtQmlIntegration -isystem /home/wander/Aplicativos/Qt/6.8.1/gcc_64/include/QtNetwork -isystem /home/wander/Aplicativos/Qt/6.8.1/gcc_64/include/QtQuick -isystem /home/wander/Aplicativos/Qt/6.8.1/gcc_64/include/QtGui -isystem /home/wander/Aplicativos/Qt/6.8.1/gcc_64/include/QtQmlMeta -isystem /home/wander/Aplicativos/Qt/6.8.1/gcc_64/include/QtQmlModels -isystem /home/wander/Aplicativos/Qt/6.8.1/gcc_64/include/QtQmlWorkerScript -isystem /home/wander/Aplicativos/Qt/6.8.1/gcc_64/include/QtOpenGL
+  OBJECT_DIR = CMakeFiles/appheva-system.dir
+  OBJECT_FILE_DIR = CMakeFiles/appheva-system.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appheva-system_ui
+
 build CMakeFiles/appheva-system.dir/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_appheva-system_raw_qml_0.cpp.o: CXX_COMPILER__appheva-system_unscanned_Debug /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_appheva-system_raw_qml_0.cpp || cmake_object_order_depends_target_appheva-system
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMETA_LIB -DQT_QMLMODELS_LIB -DQT_QMLWORKERSCRIPT_LIB -DQT_QML_LIB -DQT_QUICK_LIB
   DEP_FILE = CMakeFiles/appheva-system.dir/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_appheva-system_raw_qml_0.cpp.o.d
@@ -113,7 +121,7 @@ build CMakeFiles/appheva-system.dir/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_app
 #############################################
 # Link the executable appheva-system
 
-build appheva-system: CXX_EXECUTABLE_LINKER__appheva-system_Debug CMakeFiles/appheva-system.dir/appheva-system_autogen/mocs_compilation.cpp.o CMakeFiles/appheva-system.dir/main.cpp.o CMakeFiles/appheva-system.dir/appheva-system_qmltyperegistrations.cpp.o CMakeFiles/appheva-system.dir/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_qmake_heva-system.cpp.o CMakeFiles/appheva-system.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appheva-system_qmlcache_loader.cpp.o CMakeFiles/appheva-system.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appheva-system_Main_qml.cpp.o CMakeFiles/appheva-system.dir/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_appheva-system_raw_qml_0.cpp.o | /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6Quick.so.6.8.1 /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6QmlMeta.so.6.8.1 /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6QmlWorkerScript.so.6.8.1 /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6QmlModels.so.6.8.1 /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6Qml.so.6.8.1 /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6Network.so.6.8.1 /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6OpenGL.so.6.8.1 /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6Gui.so.6.8.1 /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6Core.so.6.8.1 || appheva-system_autogen appheva-system_autogen_timestamp_deps appheva-system_qmlimportscan appheva-system_tooling
+build appheva-system: CXX_EXECUTABLE_LINKER__appheva-system_Debug CMakeFiles/appheva-system.dir/appheva-system_autogen/mocs_compilation.cpp.o CMakeFiles/appheva-system.dir/main.cpp.o CMakeFiles/appheva-system.dir/appheva-system_qmltyperegistrations.cpp.o CMakeFiles/appheva-system.dir/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_qmake_heva-system.cpp.o CMakeFiles/appheva-system.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appheva-system_qmlcache_loader.cpp.o CMakeFiles/appheva-system.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appheva-system_Main_qml.cpp.o CMakeFiles/appheva-system.dir/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp.o CMakeFiles/appheva-system.dir/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_appheva-system_raw_qml_0.cpp.o | /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6Quick.so.6.8.1 /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6QmlMeta.so.6.8.1 /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6QmlWorkerScript.so.6.8.1 /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6QmlModels.so.6.8.1 /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6Qml.so.6.8.1 /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6Network.so.6.8.1 /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6OpenGL.so.6.8.1 /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6Gui.so.6.8.1 /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6Core.so.6.8.1 || appheva-system_autogen appheva-system_autogen_timestamp_deps appheva-system_qmlimportscan appheva-system_tooling
   FLAGS = -DQT_QML_DEBUG -g
   LINK_LIBRARIES = -Wl,-rpath,/home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib:  /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6Quick.so.6.8.1  /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6QmlMeta.so.6.8.1  /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6QmlWorkerScript.so.6.8.1  /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6QmlModels.so.6.8.1  /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6Qml.so.6.8.1  /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6Network.so.6.8.1  /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6OpenGL.so.6.8.1  /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6Gui.so.6.8.1  /usr/lib/x86_64-linux-gnu/libGLX.so  /usr/lib/x86_64-linux-gnu/libOpenGL.so  /home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib/libQt6Core.so.6.8.1  -Wl,-rpath-link,/home/wander/Aplicativos/Qt/6.8.1/gcc_64/lib
   OBJECT_DIR = CMakeFiles/appheva-system.dir
@@ -174,19 +182,19 @@ build all_qmllint_module: phony appheva-system_qmllint_module
 #############################################
 # Utility command for appheva-system_tooling
 
-build appheva-system_tooling: phony heva-system/Main.qml heva-system/README.md
+build appheva-system_tooling: phony heva-system/Main.qml heva-system/ui/LeftBar.qml heva-system/README.md heva-system/.gitignore
 
 
 #############################################
 # Utility command for module_appheva-system_aotstats_target
 
-build module_appheva-system_aotstats_target: phony CMakeFiles/module_appheva-system_aotstats_target .rcc/qmlcache/module_appheva-system.aotstats .rcc/qmlcache/appheva-system_Main_qml.cpp .rcc/qmlcache/appheva-system_Main_qml.cpp.aotstats appheva-system_qmltyperegistrations.cpp heva-system/appheva-system.qmltypes appheva-system_qmltyperegistration
+build module_appheva-system_aotstats_target: phony CMakeFiles/module_appheva-system_aotstats_target .rcc/qmlcache/module_appheva-system.aotstats .rcc/qmlcache/appheva-system_Main_qml.cpp .rcc/qmlcache/appheva-system_Main_qml.cpp.aotstats .rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp .rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp.aotstats appheva-system_qmltyperegistrations.cpp heva-system/appheva-system.qmltypes appheva-system_qmltyperegistration
 
 
 #############################################
 # Utility command for all_aotstats
 
-build all_aotstats: phony CMakeFiles/all_aotstats .rcc/qmlcache/all_aotstats.aotstats .rcc/qmlcache/all_aotstats.txt .rcc/qmlcache/module_appheva-system.aotstats .rcc/qmlcache/appheva-system_Main_qml.cpp .rcc/qmlcache/appheva-system_Main_qml.cpp.aotstats appheva-system_qmltyperegistrations.cpp heva-system/appheva-system.qmltypes module_appheva-system_aotstats_target
+build all_aotstats: phony CMakeFiles/all_aotstats .rcc/qmlcache/all_aotstats.aotstats .rcc/qmlcache/all_aotstats.txt .rcc/qmlcache/module_appheva-system.aotstats .rcc/qmlcache/appheva-system_Main_qml.cpp .rcc/qmlcache/appheva-system_Main_qml.cpp.aotstats .rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp .rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp.aotstats appheva-system_qmltyperegistrations.cpp heva-system/appheva-system.qmltypes module_appheva-system_aotstats_target
 
 
 #############################################
@@ -319,9 +327,18 @@ build .rcc/qmlcache/appheva-system_Main_qml.cpp .rcc/qmlcache/appheva-system_Mai
 
 
 #############################################
+# Custom command for .rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp
+
+build .rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp .rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp.aotstats | ${cmake_ninja_workdir}.rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp ${cmake_ninja_workdir}.rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp.aotstats: CUSTOM_COMMAND /home/wander/Aplicativos/Qt/6.8.1/gcc_64/libexec/qmlcachegen /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/LeftBar.qml .qt/rcc/qmake_heva-system.qrc .qt/rcc/appheva-system_raw_qml_0.qrc heva-system/appheva-system.qmltypes heva-system/qmldir
+  COMMAND = cd /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug && /home/wander/Aplicativos/Qt/Tools/CMake/bin/cmake -E make_directory /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appheva-system_ui && /home/wander/Aplicativos/Qt/6.8.1/gcc_64/libexec/qmlcachegen --bare --resource-path /qt/qml/heva-system/ui/LeftBar.qml -I /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug -I /home/wander/Aplicativos/Qt/6.8.1/gcc_64/qml -i /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/heva-system/qmldir --resource /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_heva-system.qrc --resource /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appheva-system_raw_qml_0.qrc --dump-aot-stats "--module-id=heva-system(appheva-system)" -o /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/LeftBar.qml
+  DESC = Generating .rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp, .rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp.aotstats
+  restat = 1
+
+
+#############################################
 # Custom command for .qt/rcc/qrc_appheva-system_raw_qml_0.cpp
 
-build .qt/rcc/qrc_appheva-system_raw_qml_0.cpp | ${cmake_ninja_workdir}.qt/rcc/qrc_appheva-system_raw_qml_0.cpp: CUSTOM_COMMAND /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Main.qml /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/README.md .qt/rcc/appheva-system_raw_qml_0.qrc /home/wander/Aplicativos/Qt/6.8.1/gcc_64/libexec/rcc || appheva-system_autogen appheva-system_autogen_timestamp_deps appheva-system_qmlimportscan appheva-system_tooling
+build .qt/rcc/qrc_appheva-system_raw_qml_0.cpp | ${cmake_ninja_workdir}.qt/rcc/qrc_appheva-system_raw_qml_0.cpp: CUSTOM_COMMAND /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Main.qml /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/LeftBar.qml /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/README.md /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/.gitignore .qt/rcc/appheva-system_raw_qml_0.qrc /home/wander/Aplicativos/Qt/6.8.1/gcc_64/libexec/rcc || appheva-system_autogen appheva-system_autogen_timestamp_deps appheva-system_qmlimportscan appheva-system_tooling
   COMMAND = cd /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug && /home/wander/Aplicativos/Qt/6.8.1/gcc_64/libexec/rcc --output /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qrc_appheva-system_raw_qml_0.cpp --name appheva-system_raw_qml_0 /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appheva-system_raw_qml_0.qrc
   DESC = Running rcc for resource appheva-system_raw_qml_0
   restat = 1
@@ -356,21 +373,21 @@ build CMakeFiles/appheva-system_qmltyperegistration | ${cmake_ninja_workdir}CMak
 #############################################
 # Custom command for CMakeFiles/appheva-system_qmllint
 
-build CMakeFiles/appheva-system_qmllint | ${cmake_ninja_workdir}CMakeFiles/appheva-system_qmllint: CUSTOM_COMMAND /home/wander/Aplicativos/Qt/6.8.1/gcc_64/bin/qmllint /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Main.qml .rcc/qmllint/appheva-system.rsp || all_qmltyperegistrations appheva-system_qmltyperegistration
+build CMakeFiles/appheva-system_qmllint | ${cmake_ninja_workdir}CMakeFiles/appheva-system_qmllint: CUSTOM_COMMAND /home/wander/Aplicativos/Qt/6.8.1/gcc_64/bin/qmllint /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Main.qml /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/LeftBar.qml .rcc/qmllint/appheva-system.rsp || all_qmltyperegistrations appheva-system_qmltyperegistration
   COMMAND = cd /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system && /home/wander/Aplicativos/Qt/6.8.1/gcc_64/bin/qmllint @/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.rcc/qmllint/appheva-system.rsp
 
 
 #############################################
 # Custom command for CMakeFiles/appheva-system_qmllint_json
 
-build CMakeFiles/appheva-system_qmllint_json | ${cmake_ninja_workdir}CMakeFiles/appheva-system_qmllint_json: CUSTOM_COMMAND /home/wander/Aplicativos/Qt/6.8.1/gcc_64/bin/qmllint /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Main.qml .rcc/qmllint/appheva-system_json.rsp || all_qmltyperegistrations appheva-system_qmltyperegistration
+build CMakeFiles/appheva-system_qmllint_json | ${cmake_ninja_workdir}CMakeFiles/appheva-system_qmllint_json: CUSTOM_COMMAND /home/wander/Aplicativos/Qt/6.8.1/gcc_64/bin/qmllint /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Main.qml /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/LeftBar.qml .rcc/qmllint/appheva-system_json.rsp || all_qmltyperegistrations appheva-system_qmltyperegistration
   COMMAND = cd /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system && /home/wander/Aplicativos/Qt/6.8.1/gcc_64/bin/qmllint @/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.rcc/qmllint/appheva-system_json.rsp
 
 
 #############################################
 # Custom command for CMakeFiles/appheva-system_qmllint_module
 
-build CMakeFiles/appheva-system_qmllint_module | ${cmake_ninja_workdir}CMakeFiles/appheva-system_qmllint_module: CUSTOM_COMMAND /home/wander/Aplicativos/Qt/6.8.1/gcc_64/bin/qmllint /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Main.qml .rcc/qmllint/appheva-system_module.rsp || all_qmltyperegistrations appheva-system_qmltyperegistration
+build CMakeFiles/appheva-system_qmllint_module | ${cmake_ninja_workdir}CMakeFiles/appheva-system_qmllint_module: CUSTOM_COMMAND /home/wander/Aplicativos/Qt/6.8.1/gcc_64/bin/qmllint /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Main.qml /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/LeftBar.qml .rcc/qmllint/appheva-system_module.rsp || all_qmltyperegistrations appheva-system_qmltyperegistration
   COMMAND = cd /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system && /home/wander/Aplicativos/Qt/6.8.1/gcc_64/bin/qmllint @/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.rcc/qmllint/appheva-system_module.rsp
 
 
@@ -384,11 +401,29 @@ build heva-system/Main.qml | ${cmake_ninja_workdir}heva-system/Main.qml: CUSTOM_
 
 
 #############################################
+# Custom command for heva-system/ui/LeftBar.qml
+
+build heva-system/ui/LeftBar.qml | ${cmake_ninja_workdir}heva-system/ui/LeftBar.qml: CUSTOM_COMMAND /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/LeftBar.qml
+  COMMAND = cd /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system && /home/wander/Aplicativos/Qt/Tools/CMake/bin/cmake -E copy /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/LeftBar.qml /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/heva-system/ui/LeftBar.qml
+  DESC = Copying ui/LeftBar.qml to /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/heva-system/ui/LeftBar.qml
+  restat = 1
+
+
+#############################################
 # Custom command for heva-system/README.md
 
 build heva-system/README.md | ${cmake_ninja_workdir}heva-system/README.md: CUSTOM_COMMAND /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/README.md
   COMMAND = cd /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system && /home/wander/Aplicativos/Qt/Tools/CMake/bin/cmake -E copy /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/README.md /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/heva-system/README.md
   DESC = Copying README.md to /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/heva-system/README.md
+  restat = 1
+
+
+#############################################
+# Custom command for heva-system/.gitignore
+
+build heva-system/.gitignore | ${cmake_ninja_workdir}heva-system/.gitignore: CUSTOM_COMMAND /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/.gitignore
+  COMMAND = cd /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system && /home/wander/Aplicativos/Qt/Tools/CMake/bin/cmake -E copy /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/.gitignore /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/heva-system/.gitignore
+  DESC = Copying .gitignore to /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/heva-system/.gitignore
   restat = 1
 
 
@@ -401,7 +436,7 @@ build CMakeFiles/module_appheva-system_aotstats_target | ${cmake_ninja_workdir}C
 #############################################
 # Custom command for .rcc/qmlcache/module_appheva-system.aotstats
 
-build .rcc/qmlcache/module_appheva-system.aotstats | ${cmake_ninja_workdir}.rcc/qmlcache/module_appheva-system.aotstats: CUSTOM_COMMAND .rcc/qmlcache/appheva-system_Main_qml.cpp.aotstats .rcc/qmlcache/module_appheva-system.aotstatslist || appheva-system_qmltyperegistration
+build .rcc/qmlcache/module_appheva-system.aotstats | ${cmake_ninja_workdir}.rcc/qmlcache/module_appheva-system.aotstats: CUSTOM_COMMAND .rcc/qmlcache/appheva-system_Main_qml.cpp.aotstats .rcc/qmlcache/appheva-system_ui/LeftBar_qml.cpp.aotstats .rcc/qmlcache/module_appheva-system.aotstatslist || appheva-system_qmltyperegistration
   COMMAND = cd /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug && /home/wander/Aplicativos/Qt/6.8.1/gcc_64/libexec/qmlaotstats aggregate /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/module_appheva-system.aotstatslist /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.rcc/qmlcache/module_appheva-system.aotstats
   DESC = Generating .rcc/qmlcache/module_appheva-system.aotstats
   restat = 1
@@ -432,7 +467,7 @@ build CMakeFiles/appheva-system_qmlimportscan | ${cmake_ninja_workdir}CMakeFiles
 #############################################
 # Custom command for .qt/qml_imports/appheva-system_build.cmake
 
-build .qt/qml_imports/appheva-system_build.cmake | ${cmake_ninja_workdir}.qt/qml_imports/appheva-system_build.cmake: CUSTOM_COMMAND /home/wander/Aplicativos/Qt/6.8.1/gcc_64/libexec/qmlimportscanner .qt/rcc/qmake_heva-system.qrc .qt/rcc/appheva-system_raw_qml_0.qrc /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Main.qml
+build .qt/qml_imports/appheva-system_build.cmake | ${cmake_ninja_workdir}.qt/qml_imports/appheva-system_build.cmake: CUSTOM_COMMAND /home/wander/Aplicativos/Qt/6.8.1/gcc_64/libexec/qmlimportscanner .qt/rcc/qmake_heva-system.qrc .qt/rcc/appheva-system_raw_qml_0.qrc /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Main.qml /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/LeftBar.qml
   COMMAND = cd /home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system && /home/wander/Aplicativos/Qt/6.8.1/gcc_64/libexec/qmlimportscanner @/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appheva-system_build.rsp
   DESC = Running qmlimportscanner for appheva-system
   restat = 1
