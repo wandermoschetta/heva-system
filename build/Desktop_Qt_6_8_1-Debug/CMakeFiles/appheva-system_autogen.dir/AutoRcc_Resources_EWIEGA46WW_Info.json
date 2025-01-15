@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/appheva-system_autogen",
+	"CMAKE_BINARY_DIR" : "/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system",
+	"CMAKE_SOURCE_DIR" : "/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/appheva-system_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/images/mars-rover2.png",
+		"/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/images/car-white.png"
+	],
+	"LOCK_FILE" : "/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appheva-system_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resources.cpp",
+	"RCC_EXECUTABLE" : "/home/wander/Aplicativos/Qt/6.8.1/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appheva-system_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

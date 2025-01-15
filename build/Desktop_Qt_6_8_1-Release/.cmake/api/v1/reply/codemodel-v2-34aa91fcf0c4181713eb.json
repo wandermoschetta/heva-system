@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-869c80ff983866c1ac41.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "heva-system",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Release-e3fbb7ceaa13d599654a.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Release-091a77aa4be63c72ecbd.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Release-14f51258eb91bad1ef67.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Release-3df8ae03185947552ea8.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Release-abbb2bc7a15630514fb5.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appheva-system::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appheva-system-Release-f183e8b1d8484d0820df.json",
+					"name" : "appheva-system",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appheva-system_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appheva-system_autogen-Release-ce611e104738024dee0b.json",
+					"name" : "appheva-system_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appheva-system_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appheva-system_autogen_timestamp_deps-Release-6226fae3c3661ec216c0.json",
+					"name" : "appheva-system_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appheva-system_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appheva-system_qmlimportscan-Release-6acfb98dfaae8a9b9697.json",
+					"name" : "appheva-system_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appheva-system_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appheva-system_qmllint-Release-77e514b6053809c50e3c.json",
+					"name" : "appheva-system_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appheva-system_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appheva-system_qmllint_json-Release-7f5e60a0aec290fc8681.json",
+					"name" : "appheva-system_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appheva-system_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appheva-system_qmllint_module-Release-8aea397b7fa9d6b8253b.json",
+					"name" : "appheva-system_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appheva-system_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appheva-system_qmltyperegistration-Release-6c40fb269d4d9ce4ca6f.json",
+					"name" : "appheva-system_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appheva-system_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appheva-system_tooling-Release-d6c3daa18b211c64d78c.json",
+					"name" : "appheva-system_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appheva-system_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appheva-system_aotstats_target-Release-d7bf71fcd5441833dc58.json",
+					"name" : "module_appheva-system_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Release",
+		"source" : "/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

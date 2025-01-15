@@ -8,9 +8,14 @@ find_package(Qt6 REQUIRED COMPONENTS Quick)
 
 qt_standard_project_setup(REQUIRES 6.5)
 
+set(CMAKE_AUTORCC ON)
+
 qt_add_executable(appheva-system
     main.cpp
+    Resources.qrc
+
 )
+
 
 qt_add_qml_module(appheva-system
     URI heva-system
@@ -19,7 +24,10 @@ qt_add_qml_module(appheva-system
         Main.qml
         RESOURCES README.md
         RESOURCES .gitignore
-        QML_FILES ui/LeftBar.qml
+        RESOURCES images/car-white.png
+        RESOURCES images/mars-rover2.png
+        ui/LeftBar.qml
+        ui/BottonBar.qml
 
 )
 

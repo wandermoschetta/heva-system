@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/heva-system">
+    <file alias="qmldir">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Release/heva-system/qmldir</file>
+  </qresource>
+</RCC>
+

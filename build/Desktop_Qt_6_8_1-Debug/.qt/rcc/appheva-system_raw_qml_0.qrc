@@ -1,9 +1,12 @@
 <RCC>
   <qresource prefix="/qt/qml/heva-system/">
     <file alias="Main.qml">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Main.qml</file>
-    <file alias="ui/LeftBar.qml">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/LeftBar.qml</file>
     <file alias="README.md">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/README.md</file>
     <file alias=".gitignore">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/.gitignore</file>
+    <file alias="images/car-white.png">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/images/car-white.png</file>
+    <file alias="images/mars-rover2.png">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/images/mars-rover2.png</file>
+    <file alias="ui/LeftBar.qml">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/LeftBar.qml</file>
+    <file alias="ui/BottonBar.qml">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/BottonBar.qml</file>
   </qresource>
 </RCC>
 

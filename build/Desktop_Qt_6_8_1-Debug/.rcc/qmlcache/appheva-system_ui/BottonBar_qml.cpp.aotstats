@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 6,
+                        "durationMicroseconds": 522,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 5
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 256,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 5
+                    }
+                ],
+                "filepath": "/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/BottonBar.qml"
+            }
+        ],
+        "moduleId": "heva-system(appheva-system)"
+    }
+]

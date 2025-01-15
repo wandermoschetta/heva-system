@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="images/cabine-piloto.jpg">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/images/cabine-piloto.jpg</file>
+  </qresource>
+</RCC>
+

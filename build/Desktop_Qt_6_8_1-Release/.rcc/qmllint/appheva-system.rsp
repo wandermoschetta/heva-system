@@ -1,0 +1,12 @@
+--bare
+-I
+/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Release
+-I
+/home/wander/Aplicativos/Qt/6.8.1/gcc_64/qml
+--resource
+/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Release/.qt/rcc/PREFIX.qrc
+--resource
+/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Release/.qt/rcc/qmake_heva-system.qrc
+--resource
+/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Release/.qt/rcc/appheva-system_raw_qml_0.qrc
+/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Main.qml

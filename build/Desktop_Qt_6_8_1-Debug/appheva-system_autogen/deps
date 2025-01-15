@@ -847,6 +847,7 @@ appheva-system_autogen/timestamp: \
 	/home/wander/Aplicativos/Qt/Tools/CMake/share/cmake-3.29/Modules/Platform/Linux.cmake \
 	/home/wander/Aplicativos/Qt/Tools/CMake/share/cmake-3.29/Modules/Platform/UnixPaths.cmake \
 	/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/CMakeLists.txt \
+	/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Resources.qrc \
 	/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appheva-system_conf.cmake \
 	/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/.qtc/package-manager/auto-setup.cmake \
 	/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake \
