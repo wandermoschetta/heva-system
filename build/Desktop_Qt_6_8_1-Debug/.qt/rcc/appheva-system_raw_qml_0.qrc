@@ -5,8 +5,11 @@
     <file alias=".gitignore">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/.gitignore</file>
     <file alias="images/car-white.png">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/images/car-white.png</file>
     <file alias="images/mars-rover2.png">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/images/mars-rover2.png</file>
+    <file alias="images/moon-rover.png">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/images/moon-rover.png</file>
+    <file alias="images/setup.png">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/images/setup.png</file>
     <file alias="ui/LeftBar.qml">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/LeftBar.qml</file>
     <file alias="ui/BottonBar.qml">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/BottonBar.qml</file>
+    <file alias="ui/IgniteBottom.qml">/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/ui/IgniteBottom.qml</file>
   </qresource>
 </RCC>
 

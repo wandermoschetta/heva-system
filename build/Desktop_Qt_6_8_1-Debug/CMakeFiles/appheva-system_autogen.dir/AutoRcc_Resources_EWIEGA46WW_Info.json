@@ -9,7 +9,9 @@
 	"INCLUDE_DIR" : "/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/appheva-system_autogen/include",
 	"INPUTS" : 
 	[
+		"/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/images/moon-rover.png",
 		"/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/images/mars-rover2.png",
+		"/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/images/setup.png",
 		"/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/images/car-white.png"
 	],
 	"LOCK_FILE" : "/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/appheva-system_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Lock.lock",

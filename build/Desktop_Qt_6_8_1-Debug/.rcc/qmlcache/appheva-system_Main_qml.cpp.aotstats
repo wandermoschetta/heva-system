@@ -3,22 +3,6 @@
         "moduleFiles": [
             {
                 "entries": [
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 12,
-                        "durationMicroseconds": 646,
-                        "errorMessage": "",
-                        "functionName": "y",
-                        "line": 32
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 37,
-                        "durationMicroseconds": 535,
-                        "errorMessage": "",
-                        "functionName": "x",
-                        "line": 32
-                    }
                 ],
                 "filepath": "/home/wander/Projetos/kawsoft/robotic/heva-system/src/heva-system/Main.qml"
             }

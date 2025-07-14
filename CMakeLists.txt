@@ -26,8 +26,12 @@ qt_add_qml_module(appheva-system
         RESOURCES .gitignore
         RESOURCES images/car-white.png
         RESOURCES images/mars-rover2.png
+        RESOURCES images/moon-rover.png
+        RESOURCES images/setup.png
         ui/LeftBar.qml
         ui/BottonBar.qml
+        ui/IgniteBottom.qml
+
 
 )
 

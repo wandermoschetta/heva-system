@@ -1,14 +1,20 @@
 import QtQuick
 import "ui"
+import QtQuick.Controls.Material 2.12
 
 Window {
     width: 969
     height: 609
     visible: true
     title: qsTr("Heva System")
-    color: "Gray"
+    color: "white"
+    opacity: 0.5
 
-    LeftBar{}
+    //flags: Qt.FramelessWindowHint
+    //color: "transparent"
+
+    IgniteBottom{}
+    //LeftBar{}
     BottonBar{}
 
     /*Rectangle{
@@ -16,14 +22,14 @@ Window {
         opacity: 0.5
 
         Image {
-            id: backgroundImage
+            id: backgroundImage2
             source: "images/mars-rover2.png"
             width:50
             height:50
 
 
         }
-    }*/
+    }
     Image {
         id: backgroundImage
         source: "images/mars-rover2.png"
@@ -33,5 +39,8 @@ Window {
 
 
     }
+    */
+
+
 
 }
