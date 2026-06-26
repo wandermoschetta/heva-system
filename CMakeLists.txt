@@ -22,16 +22,19 @@ qt_add_qml_module(appheva-system
     VERSION 1.0
     QML_FILES
         Main.qml
-        RESOURCES README.md
-        RESOURCES .gitignore
-        RESOURCES images/car-white.png
-        RESOURCES images/mars-rover2.png
-        RESOURCES images/moon-rover.png
-        RESOURCES images/setup.png
         ui/LeftBar.qml
         ui/BottonBar.qml
         ui/IgniteBottom.qml
+        ui/SplashScreen.qml
 
+    RESOURCES
+        README.md
+        .gitignore
+        images/car-white.png
+        images/mars-rover2.png
+        images/moon-rover.png
+        images/setup.png
+        images/heva-8-transp.png
 
 )
 

@@ -4,5 +4,6 @@
         <file>images/mars-rover2.png</file>
         <file>images/moon-rover.png</file>
         <file>images/setup.png</file>
+        <file>ui/SplashScreen.qml</file>
     </qresource>
 </RCC>
